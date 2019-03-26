@@ -14,3 +14,6 @@ dependencies:
    - pvl
    - pywget
    - geoalchemy2
+   - jupyter
+   - plio
+   - psycopg2
